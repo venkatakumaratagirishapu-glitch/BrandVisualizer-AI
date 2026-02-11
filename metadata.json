@@ -1,0 +1,7 @@
+{
+  "name": " BrandVisualizer AI",
+  "description": "Visualize your product or logo across various marketing mediums like billboards, coffee mugs, and t-shirts  for consistent brand placement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
